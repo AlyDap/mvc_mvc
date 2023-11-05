@@ -1,0 +1,23 @@
+karyatulisku.com -> https://karyatulisku.com/category/penelitian/contoh-penelitian/
+eprints.uny.ac.id ->https://eprints.uny.ac.id/view/subjects/
+eprints.undip.ac.id
+etheses.uin-malang.ac.id
+
+
+https://www.google.co.id/books/edition/Penerapan_Metode_AHP_ELECTRE_dalam_Pemil/5-BsEAAAQBAJ?hl=en&gbpv=0
+google scholar
+
+"strategi pemasaran" filetype:PDF 
+cari file format tertentu
+
+allintitle:"strategi pemasaran"
+cari kata atau kalimat tertentu yang hanya ada di judul
+
+"Perilaku Konsumen"
+cari kalimat yang spesifik atau sama persis
+
+"Perilaku Konsumen" AND SWOT
+cari 2 atau lebih kalimat yang spesifik
+
+"Perilaku Konsumen" OR "strategi pemasaran"
+cari 2 atau lebih kalimat yang berbeda
