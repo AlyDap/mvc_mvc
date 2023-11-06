@@ -12,6 +12,12 @@ Presman, R. (2015). Rekayasa Perangkat Lunak Yogyakarta: Andi.
 
 (Putu Gede Surya Cipta Nugraha, 2021)
 Putu Gede Surya Cipta Nugraha, N. W. (2021). RANCANG BANGUN SISTEM INFORMASI SOFTWARE POINT OF SALE (POS) DENGAN METODE WATERFALL BERBASIS WEB. Jurnal Sains dan Teknologi, 92-103.
+
+(Tohari, 2014).
+Tohari, H. (2014). Analisa Serta Perancangan Sistem Informasi Melalui Pendekatan UML. Yogyakarta: ANDI Offset
+
+(Irawati & THR, 2012)
+Irawati, D. A., & THR, A. R. (2012). Buku Ajar Interaksi Manusia dan Komputer. Malang: Politeknik Negeri Malang.
 ____________________________________________________________________________________________________________________________
 Karno Nur Cahyo, M. E. (2019). Perancangan Sistem Informasi Pengelolaan Kuesioner Pelatihan Pada PTBrainmatics Cipta Informatika. Journal of Information System Research (JOSH), 45-53.1
 
