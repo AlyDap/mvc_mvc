@@ -18,6 +18,10 @@ Tohari, H. (2014). Analisa Serta Perancangan Sistem Informasi Melalui Pendekatan
 
 (Irawati & THR, 2012)
 Irawati, D. A., & THR, A. R. (2012). Buku Ajar Interaksi Manusia dan Komputer. Malang: Politeknik Negeri Malang.
+
+(Sulistyanto, 2017). 
+Sulistyanto, H. (2017). URGENSI PENGUJIAN PADA KEMAJEMUKAN PERANGKAT LUNAK DALAM MULTI PERSPEKTIF. Komuniti : Jurnal Komunikasi dan Teknologi Informasi.
+
 ____________________________________________________________________________________________________________________________
 Karno Nur Cahyo, M. E. (2019). Perancangan Sistem Informasi Pengelolaan Kuesioner Pelatihan Pada PTBrainmatics Cipta Informatika. Journal of Information System Research (JOSH), 45-53.1
 
