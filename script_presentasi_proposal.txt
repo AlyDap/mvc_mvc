@@ -1,0 +1,112 @@
+A. JUDUL
+SISTEM PENDUKUNG KEPUTUSAN PENERIMAAN BANTUAN
+BAGI WARGA DESA BANDENGAN MENGGUNAKAN METODE
+ELECTRE.
+
+B. LATAR BELAKANG
+Metode Electre (Elimination and Choice Expressing Reality) adalah
+metode metode pengambilan keputusan multikriteria berdasarkan pada
+konsep outranking dengan menggunakan perbandingan berpasangan dari
+alternatif-alternatif berdasarkan setiap kriteria yang sesuai.
+Selain itu, SPK juga contohnya ada banyak, salah satunya yaitu SPK
+penerimaan bantuan sosial. Kebetulan di desa Bandengan ada suatu persoalan
+mengenai penerimaan bantuan sosial. Persoalan yang terjadi adalah data yang
+begitu banyak harus dicatat secara manual sehingga proses dalam
+memberikan bantuan sosial akan memakan waktu yang cukup lama karena
+prosesnya masih manual, belum lagi untuk membuat laporannya. Tidak hanya
+itu, hasil yang didapat juga kurang akurat sehingga dapat menimbulkan
+pertikaian antar warga
+
+C. RUMUSAN MASALAH
+Bagaimana merancang Sistem Pendukung Keputusan Penerimaan
+Bantuan Bagi Warga Desa Bandengan yang cepat dan akurat menggunakan
+metode Electre?
+
+D. TUJUAN DAN MANFAAT
+1. Tujuan
+Terwujudya Sistem Pendukung Keputusan Penerimaan Bantuan
+bagi warga Desa Bandengan.
+2. Manfaat
+a. Memudahkan dalam pengambilan keputusan.
+b. Proses pengambilan keputusan yang cepat.
+c. Mendapatkan hasil keputusan yang akurat
+
+F. METODOLOGI PENELITIAN
+
+1. Metode Pengumpulan Data
+a. Data Primer
+Data yang diperoleh secara langsung dari tempat penelitian
+yaitu dengan cara:
+1) Observasi
+Kegiatan observasi dilakukan dengan cara melakukan
+pengamatan langsung terhadap proses penerimaan bantuan bagi
+warga desa Bandengan yang bertempat di Kelurahan
+Bandengan.
+2) Wawancara
+Wawancara dilakukan secara langsung dengan tanya
+jawab kepada Bapak Muhammad Rusman Aji, S.E. selaku
+Kepala Desa Keluarahan Bandengan saat ini dan tim penyeleksi
+mengenai proses penerimaan bagi warga desanya yang layak
+serta data apa saja yang akan dijadikan acuan dalam penerimaan
+tersebut.
+b. Data Sekunder
+Data yang diperoleh secara tidak langsung seperti jurnal dan
+buku yang berkaitan dengan judul dalam membatu mencari referensi
+yang diperlukan sehinga dapat membantu dalam menyelesaikan
+skripsi ini nantinya.
+
+2. Metode Pengembangan Sistem
+Metode yang akan digunakan adalah metode waterfall. Dengan
+tahapan-tahapan sebagai berikut:
+a. Communication
+Pada tahap. ini dilakukan penyusunan berbagai kebutuhan
+yang berkaitan dengan pembuatan Sistem Pendukung Keputusan
+Penerimaan Bantuan Bagi Warga Desa Bandengan yang cepat dan
+akurat menggunakan metode Electre mulai dari perencanaan jadwal
+kegiatan, penyusunan pertanyaan untuk pengumpulan data melalui
+wawancara dan kuisioner.
+b. Planning
+Tahapan ini dilakukan untuk mengetahui permasalahan yang
+ada dan memberi usulan solusi yang tepat dengan cara melakukan
+pengumpulan data melalui observasi, wawancara. dan kuesioner
+sehingga dapat mengidentifikasi kebutuhan fungsional dan non
+fungsional sistem, menentukan siapa saja pengguna sistem,
+menentukan kriteria dan variabel sistem pendukung keputusan yang
+akan dibuat.
+c. Modelling
+Pada tahap ini dilakukan perancangan terhadap sistem yang
+akan dibangun yaitu perancangan sistem meliputi diagram use case
+untuk memodelkan gambaran perilaku sistem yang berjalan dan
+perilaku sistem yang akan dibangun, diagram activity untuk
+menggambarkan aktivitas yang berjalan pada sistem berdasarkan
+dari diagram use case, diagram sequence untuk menggambarkan
+urutan proses pada setiap aktivitas sistem yang akan dibangun,
+diagram class untuk menggambarkan relasi antar tabel database
+sistem. Alat bantu perancangan sistem menggunakan UML dan
+perancangan tampilan sistem menggunakan LKT.
+d. Contruction
+Tahap ini merupakan tahapan implementasi dari hasil analisis
+dan perancangan sistem ke dalam pembuatan program (coding)
+dengan framework Codeigneter 4. Sistem pendukung keputusan ini
+juga nantinya akan dibangun dengan menggunakan bahasa
+pemrograman PHP dan javascrip serta MySQL sebagai databasenya
+e. Deployment
+Tahapan terakhir yaitu pendistribusian Sistem Pendukung
+Keputusan Penerimaan Bantuan Bagi Warga Desa Bandengan
+Menggunakan Metode Electre kepada pihak atau tim penyeleksi
+serta melakukan pelatihan tata cara penggunaan sistem tersebut
+
+3. Metode Pengujian
+a. White Box
+Pengujian ini dilakukan terhadap logika sistem untuk
+menguji kebenaran alur logika program sistem yang telah dibuat
+dengan cara memberikan kondisi program menggunakan diagram
+alir (flowchart).
+b. Black Box
+Pengujian ini dilakukan terhadap tombol-tombol sistem yang
+ada pada Sistem Pendukung Keputusan Penerimaan Bantuan Bagi
+Warga Desa Bandengan Menggunakan Metode Electre apakah sudah
+sesuai dengan fungsinya atau belum.
+c. User Acceptance Test (UAT)
+Pengujian ini dilakukan kepada tim penyeleksi untuk
+memastikan apakah sistem telah berjalan sesuai kebutuhan
